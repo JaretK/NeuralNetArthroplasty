@@ -1,0 +1,6 @@
+# ignore files
+sandbox.*
+*.log
+log/*
+debug*
+*.pyc
