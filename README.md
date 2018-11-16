@@ -1,7 +1,7 @@
 # NeuralNetArthroplasty
 Code, logic, and rationale for predicting total hip arthroplasty and total knee arthroplasty outcomes (length of stay and cost) using clinical databases
 
-Dependencies:
+Dependencies:  
 Python 3.5.1  
 TensorFlow 1.11.0  
 Keras 2.2.4  
