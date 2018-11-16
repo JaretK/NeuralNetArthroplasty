@@ -10,4 +10,3 @@ Numpy 1.10.4
 Scipy 1.1.0
 Pandas 0.22.0
 Matplotlib 2.1.2
-
